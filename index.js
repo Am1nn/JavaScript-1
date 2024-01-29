@@ -138,6 +138,7 @@
 //     var number=prompt("Enter Number: ");
 //     return (number % 2 === 0) ? "Even" : "Odd";
 // }
+//console.log(CheckEven());
 
 // 11. Restoranda bir neçə növ oturacaq var:
 // 1) Kiçik masa - 2 nəfərə qədər;
